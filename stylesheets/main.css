@@ -1,0 +1,51 @@
+#home-jumbotron {
+	background: url(../images/home.jpg) bottom center;
+	background-size: cover;
+}
+
+#about-jumbotron {
+	background: url(/images/about.jpg) top 50% center;
+	background-size: cover;
+}
+
+#rsvp-jumbotron {
+	background: url(/images/rsvp.jpg) bottom 50% center;
+	background-size: cover;
+}
+
+#weddingparty-jumbotron {
+	background: url(/images/weddingparty.jpg) bottom center;
+	background-size: cover;
+}
+
+#event-jumbotron {
+	background: url(/images/event.jpg) top 42% center;
+	background-size: cover;
+}
+
+#registry-jumbotron {
+	background: url(/images/registry.jpg) top 22% center;
+	background-size: cover;
+}
+
+#travel-jumbotron {
+	background: url(/images/travel.jpg) top 16% center;
+	background-size: cover;
+}
+
+.jumbotron h1, .jumbotron p {
+	color: #fff;
+}
+
+.navtarget, .top-spacer {
+	padding-top: 70px;
+	display: inline-block;
+}
+
+.thumbnail {
+	margin-bottom: 4px;
+}
+
+a.glyphicon:hover {
+	text-decoration: none;
+}

@@ -1,0 +1,8 @@
+#thankyou-jumbotron {
+	background: url(/images/thankyou-header.jpg) top 35% center;
+	background-size: cover;
+}
+
+.header-spacer {
+	height: 100px;
+}
